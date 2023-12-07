@@ -1,0 +1,13 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    :global(.tiptap) {
+        border: 1px solid black;
+        border-radius: 2px;
+        height: 200px;
+        p {
+            margin: 1rem;
+        }
+    }
+}
