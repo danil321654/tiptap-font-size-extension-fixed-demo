@@ -3,6 +3,7 @@
 
 ### Todo
 
+- Deploy somewhere
 - Add before/after demo format
 - Add pretty styles
 - Add more extensions to make it more testable and close to real use
